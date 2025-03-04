@@ -1,4 +1,4 @@
-## Hi there 👋
+## A little bit about me👋
 
 <!--
 **ddelgado60/ddelgado60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```yaml
+  name: Devon Delgado
+  location: Chicago, IL
+  education:
+    [
+       "B.S. in Computer Science",
+       "M.S. in Applied Data Science"
+    ]
+
+  fields_of_interest:
+    [
+        "Deep Learning",
+        "Data Science",
+        "MLOps",
+        "Natural Language Processing"
+    ]
+
+  technical_background:
+    [
+        "Sustainable IT Fellow - Digital Emissions",
+        "Data Science Intern - Cisco Meraki",
+        "Software Engineerin Intern - Qualtrics",
+    ]
+
+  currently_learning: ["Docker", "Agentic AI Development"]
+
+  hobbies: ["Gaming", "Playing piano", "Biking"]
+```
