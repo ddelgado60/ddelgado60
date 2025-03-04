@@ -16,30 +16,30 @@ Here are some ideas to get you started:
 -->
 
 ```yaml
-  name: Devon Delgado
-  location: Chicago, IL
-  education:
-    [
-       "B.S. in Computer Science",
-       "M.S. in Applied Data Science"
-    ]
+name: Devon Delgado
+location: Chicago, IL
+education:
+  [
+     "B.S. in Computer Science",
+     "M.S. in Applied Data Science"
+  ]
 
-  fields_of_interest:
-    [
-        "Deep Learning",
-        "Data Science",
-        "MLOps",
-        "Natural Language Processing"
-    ]
+fields_of_interest:
+  [
+      "Deep Learning",
+      "Data Science",
+      "MLOps",
+      "Natural Language Processing"
+  ]
 
-  technical_background:
-    [
-        "Sustainable IT Fellow - Digital Emissions",
-        "Data Science Intern - Cisco Meraki",
-        "Software Engineerin Intern - Qualtrics",
-    ]
+technical_background:
+  [
+      "Sustainable IT Fellow - Digital Emissions",
+      "Data Science Intern - Cisco Meraki",
+      "Software Engineerin Intern - Qualtrics",
+  ]
 
-  currently_learning: ["Docker", "Agentic AI Development"]
+currently_learning: ["Docker", "Agentic AI Development"]
 
-  hobbies: ["Gaming", "Playing piano", "Biking"]
+hobbies: ["Gaming", "Playing piano", "Biking"]
 ```
