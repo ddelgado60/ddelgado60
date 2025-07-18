@@ -1,7 +1,7 @@
 ## A little bit about me👋
 ```yaml
 name: Devon Delgado
-location: Chicago, IL
+location: Dallas, TX
 education:
   - "B.S. in Computer Science"
   - "M.S. in Applied Data Science"
@@ -11,20 +11,25 @@ fields_of_interest:
   - "Data Science"
   - "MLOps"
   - "Natural Language Processing"
+  - "AI Agents"
+  - "Productionizing Data Science"
 
 technical_background:
   - "Sustainable IT Fellow - Digital Emissions"
   - "Data Science Intern - Cisco Meraki"
   - "Software Engineering Intern - Qualtrics"
+  - "Associate Software Engineer - U.S. Bank"
 
 currently_learning:
   - "Docker"
   - "Agentic AI Development"
+  - "NodeJS"
 
 hobbies:
   - "Gaming"
   - "Playing piano"
   - "Biking"
+  - "Running"
 ```
 
 
@@ -47,4 +52,7 @@ hobbies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
 </p>
